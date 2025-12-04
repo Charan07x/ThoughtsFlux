@@ -1,4 +1,4 @@
-# Crimson Blog - Professional Blogging Platform
+# ThoughtsFlux - Professional Blogging Platform
 
 ## Overview
 A full-stack blogging platform with a stunning crimson red and black design. Features admin authentication via Replit Auth (Google, email, phone), complete CRUD operations for blog posts, and an About the Author section displayed on every blog post.
