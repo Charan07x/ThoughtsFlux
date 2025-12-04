@@ -105,11 +105,6 @@ Deploy:
 * **Backend** → Node web service
 
 Free tier works well.
-
-### ✔ **3. Replit Deployment**
-
-Since this project originated in Replit, you can deploy both client + server inside one Repl, but may require config tweaks.
-
 ---
 
 ## 🤝 Contributing
